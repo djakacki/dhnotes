@@ -171,7 +171,7 @@ List in progress. Please submit a pull request or add an issue with your suggest
 - [Minor in Digital Humanities](http://view2.fdu.edu/academics/university-college/university-college-minors/digital-humanities/), Farleigh Dickinson University, USA
 - [Specialization in Literature & the Culture of Information](http://transcriptions.english.ucsb.edu/lci/), University of California, Santa Barbara, USA
 - [Minor in Digital Humanities](http://arts.uottawa.ca/en/programs/digital-humanities), University of Ottawa, Canada
-- Minor in Digital Humanities, Bucknell University, USA
+- [Minor in Digital Humanities](http://coursecatalog.bucknell.edu/collegeofartsandsciencescurricula/areasofstudy/digitalhumanities/#text), Bucknell University, USA
 - [Digital Arts and Humanities Certificate and Minor](https://idah.indiana.edu/training/certificate.html), Indiana University Bloomington, USA
 
 ### South America and the Caribbean
